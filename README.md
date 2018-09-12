@@ -1,3 +1,13 @@
 # python_study
-包含:android自动滑动 快速排序  迪克斯特拉算法  简单的web搭建
- 
+[方法参数与装饰器](/study/test01.py)  
+[类的定义以及__getattr__实现链式链接](/study/test2.py)  
+[android自动滑动](/study/autoswipe.py)  
+[二分法查找，选择排序，快速排序](/study/algorithmTest.py)  
+[迪克斯特拉算法](/study/arithmetic7.py)   
+[simple_server实现简易web](/study/webTest.py)  
+[flask实现简易web,支持模板](/study/webTest2.py)  
+[使用asyncio，aiohttp搭建简易web](/study/asynioTest.py)  
+[上下文管理协议，with的使用](/study/test4.py)  
+[简易对象关系映射](/study/test3.py)  
+[使用元类实现 namedtuple以及查找文件](/study/iotest.py)  
+[请求网络](/study/Test1.py)
